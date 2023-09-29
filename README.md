@@ -3,8 +3,7 @@
 
 Para utilizar a API basta importala e chamar os métodos collect_data ou collect_data_Loop
 <div>
-<t2>Collect_data:</t2>
-    - Recebe um dicionário com as seguintes informações
+<t2>Collect_data:</t2>    
         <ul>
         <li>address = endereço IP do Dranetz (servidor modbus).</li>
         <li>port_number = Porta de do serviço Modbus no Dranetz, o padrão é (502).</li>
