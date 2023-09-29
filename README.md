@@ -1,5 +1,5 @@
 # DranetzAPI
-teste submodule update
+teste submodule update 2
 é uma API para acessar os dados do dranetz utilizando o protocolo ModBus da linguagem python
 
 Para utilizar a API basta importala e chamar os métodos collect_data ou collect_data_Loop
